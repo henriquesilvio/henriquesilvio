@@ -9,7 +9,7 @@ Hi there , my name is Silvio Henrique
 
      🧠 Atualmente estudando inglês 
       
-     Softskills: comunicação, foco em resultados, humildade, senso de justiça, assiduidade e facilidade no trabalho em equipe.Sou uma pessoa determinada, empenhada, comprometida, fácil aprendizado e de rápida adaptação, entusiasta para aprender e sei lidar com criticas construtivas.
+     Softskills: comunicação, foco em resultados, humildade, senso de justiça, assiduidade e facilidade no convívio social..
     
   </p>
 
