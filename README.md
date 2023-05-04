@@ -5,13 +5,13 @@ Hi there , my name is Silvio Henrique
 
   <p>
     
-     🔥 Desenvolvedora Web Front-End 
+     🔥 Desenvolvedor Web Front-End 
   
      📚 Estou cursando faculdade de Banco de Dados na Impacta Tecnologia.
 
      🧠 Atualmente estudando inglês 
       
-     👩🏾‍🎓 Entre minhas softskills destacam-se: comunicação, foco em resultados, humildade, senso de justiça, assiduidade e facilidade no trabalho em equipe.Sou uma pessoa determinada, empenhada, comprometida, fácil aprendizado e de rápida adaptação, entusiasta para aprender e sei lidar com criticas construtivas.
+     Softskills: comunicação, foco em resultados, humildade, senso de justiça, assiduidade e facilidade no trabalho em equipe.Sou uma pessoa determinada, empenhada, comprometida, fácil aprendizado e de rápida adaptação, entusiasta para aprender e sei lidar com criticas construtivas.
     
   </p>
 
@@ -50,9 +50,9 @@ Hi there , my name is Silvio Henrique
 
 <div style="display: inline_block">
   
-<a href="mailto:yasmin.alves@outlook.com.br" target="_blank" style="text-decoration:none;"><img align="center"   height="40" width="40" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTS0M6ggYz32UW39FkUpTPAqSnNOeCR9YDNZ5bN6iog1RE8sLUbsuzt8O-d02CowQ3pS3Q&usqp=CAU"></a>
-<a href="https://www.linkedin.com/in/devyasmin/" target="_blank" style="text-decoration:none;" ><img align="center"   height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linkedin/linkedin-original.svg"></a>
-<a href="https://wa.me/5512983191908" target="_blank" style="text-decoration:none;"><img align="center"   height="40" width="40" src="https://logopng.com.br/logos/whatsapp-33.png"></a>
+<a href="mailto:henriquesilvio951@gmail.com" target="_blank" style="text-decoration:none;"><img align="center"   height="40" width="40" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTS0M6ggYz32UW39FkUpTPAqSnNOeCR9YDNZ5bN6iog1RE8sLUbsuzt8O-d02CowQ3pS3Q&usqp=CAU"></a>
+<a href="https://www.linkedin.com/in/silvio-henrique/" target="_blank" style="text-decoration:none;" ><img align="center"   height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linkedin/linkedin-original.svg"></a>
+<a href="https://wa.me/551191097185" target="_blank" style="text-decoration:none;"><img align="center"   height="40" width="40" src="https://logopng.com.br/logos/whatsapp-33.png"></a>
   
 </div>
 
