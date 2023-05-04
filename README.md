@@ -1,7 +1,5 @@
 Hi there , my name is Silvio Henrique
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=#2E9AFEsize=35&center=true&vCenter=true&width=1000&lines=Olá,+Meu+Nome+é+Silvio+Henrique;Dev+Front+End;+:%27)](https://git.io/typing-svg)
-
 
   <p>
     
